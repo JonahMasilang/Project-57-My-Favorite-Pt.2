@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(forestgreen, lightblue);
+    background-repeat: no-repeat;
+}
+
+h1 {
+    
+    font-size: 20px;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+}
+
+img {
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+}
+
+.menu {
+    font-family: sans-serif;
+    float: right;
+    top: 10px;
+    right: 30px;
+}
+
+.link {
+    color: darkslateblue;
+    display: inline;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+link:hover {
+    background-color: cadetblue;
+}
+
+#welcome {
+    padding: 80px;
+    text-align: center;
+}
+
+#name {
+    font-family: 'Lato', sans-serif;
+}
